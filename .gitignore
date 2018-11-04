@@ -1,0 +1,11 @@
+*.pyc
+__pycache__
+myvenv
+myvenv34
+credenziali.txt
+primoblog.sublime-project
+primoblog.sublime-workspace
+db.sqlite3
+
+/static
+.DS_Store
